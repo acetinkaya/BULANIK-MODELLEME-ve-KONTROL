@@ -35,4 +35,5 @@ HAFTALIK DERS KONULARI
 15. Hafta - Final Sınavı Haftası
 
 KAYNAKLAR
+Prof. Dr. Novruz Allahverdi, "Uzman Sistemler: Bir Yapay Zeka Uygulaması". Atlas Yayın Dağıtım, 2002.
 
