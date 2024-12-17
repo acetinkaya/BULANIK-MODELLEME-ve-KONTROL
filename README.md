@@ -30,3 +30,4 @@ Hafta - BM Öğrenci Uygulama Projelerinin Kontrol Haftası
 Hafta - Bulanık Mantık ve Python Uygulaması - 1
 Hafta - Bulanık Mantık ve Python Uygulaması - 2
 Hafta - Bulanık Mantık ve Python Uygulaması - 3
+Hafta - Bulanık Mantık ve Python Uygulaması - 4
