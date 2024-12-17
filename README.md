@@ -21,7 +21,7 @@ HAFTALIK DERS KONULARI
 1. Hafta - Bulanık Mantık (BM) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
 2. Hafta - Python Programlama Dili ile BM Uygulama Geliştirme Ortamının Hazırlanması, Python Kütüphaneleri, Veri Bilimi ve BM Avantaj, Dezavantaj, Uygulama Alanları
 3. Hafta - BM Uygulama Projesinin Belirlenmesi, Proje İşlem Adımlarının Oluşturulması, Bulanık Küme Kavramı ve Kural Tabanı
-Hafta - BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel Değişkenler ve IF-THEN kuralları
+4. Hafta - BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel Değişkenler ve IF-THEN kuralları
 Hafta - BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma
 Hafta - BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi
 Hafta - BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Yöntemi, En Büyük Üyelik Dereceli Elemanların Orta Noktası Yöntemi)
