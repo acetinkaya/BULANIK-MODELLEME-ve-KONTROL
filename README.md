@@ -38,8 +38,8 @@ KAYNAKLAR
 Prof. Dr. Novruz Allahverdi, "Uzman Sistemler: Bir Yapay Zeka Uygulaması". Atlas Yayın Dağıtım, 2002.  
 Prof. Dr. Vasıf Nabiyev, "Yapay zeka: insan-bilgisayar etkileşimi". Seçkin Yayınları, Ankara, 2021.  
 Prof. Dr. Nazife Baykal & Dr. Timur Beyan, "Bulanık Mantık Uzman Sistemler ve Denetleyiciler". Bıçaklar Kitapevi, İstanbul, 2004.  
-Prof. Dr. Nazife Baykal & Dr. Timur Beyan, "Bulanık mantık ilke ve temelleri". Bıçaklar Kitapevi, İstanbul, 2004.
-Prof. Dr. Timothy J. Ross, "Fuzzy Logic with Engineering Applications 3rd Edition". WILEY, 2011.
+Prof. Dr. Nazife Baykal & Dr. Timur Beyan, "Bulanık mantık ilke ve temelleri". Bıçaklar Kitapevi, İstanbul, 2004.  
+Prof. Dr. Timothy J. Ross, "Fuzzy Logic with Engineering Applications 3rd Edition". WILEY, 2011.  
 Prof. Dr. Guanrong Chen & Prof. Dr. Trung Tat Pham, "Introduction to fuzzy sets, fuzzy logic, and fuzzy control systems". CRC press, 2019.
 Öğr. Gör. Ali Çetinkaya, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
 
