@@ -31,5 +31,5 @@ HAFTALIK DERS KONULARI
 11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
 12. Hafta - Bulanık Mantık ve Python Uygulaması - 3
 13. Hafta - Bulanık Mantık ve Python Uygulaması - 4
-Hafta - BM Dersi Öğrenci Uygulama Projelerinin Sunumları
+14. Hafta - BM Dersi Öğrenci Uygulama Projelerinin Sunumları
 Hafta - Final Sınavı Haftası
