@@ -17,3 +17,4 @@ Bulanık Mantık prensiplerini endüstriyel uygulamalarda kullanabilme yetkinli�
 Karmaşık veri setlerini analiz ederek Bulanık Mantık modelleri oluşturur.  
 Bulanık Mantık sistemlerinin performansını değerlendirir ve iyileştirme önerileri sunar.  
 
+HAFTALIK DERS KONULARI
