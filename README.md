@@ -30,6 +30,6 @@ HAFTALIK DERS KONULARI
 10. Hafta - Bulanık Mantık ve Python Uygulaması - 1
 11. Hafta - Bulanık Mantık ve Python Uygulaması - 2
 12. Hafta - Bulanık Mantık ve Python Uygulaması - 3
-Hafta - Bulanık Mantık ve Python Uygulaması - 4
+13. Hafta - Bulanık Mantık ve Python Uygulaması - 4
 Hafta - BM Dersi Öğrenci Uygulama Projelerinin Sunumları
 Hafta - Final Sınavı Haftası
