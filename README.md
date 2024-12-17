@@ -12,7 +12,7 @@ DERSİN ÖĞRENME ÇIKTILARI
 
 Bulanık Mantık algoritmalarının tanımını yapar.  
 Bulanık Mantık sistemlerinin modellemesini gerçekleştirir.  
-İhtiyaca yönelik Bulanık Mantık sistemlerinin tasarımını gerçekleştirir.
+İhtiyaca yönelik Bulanık Mantık sistemlerinin tasarımını gerçekleştirir.  
 Bulanık Mantık prensiplerini endüstriyel uygulamalarda kullanabilme yetkinliğini geliştirir.
 Karmaşık veri setlerini analiz ederek Bulanık Mantık modelleri oluşturur.
 Bulanık Mantık sistemlerinin performansını değerlendirir ve iyileştirme önerileri sunar.
