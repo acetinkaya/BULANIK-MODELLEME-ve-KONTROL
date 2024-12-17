@@ -9,3 +9,5 @@ Amaç:  Bu dersin amacı, öğrencilere geleneksel matematiksel ve mantıksal ya
 İçerik: Bulanık Mantık (BM) Ders Tanıtımı, Temel Kavramları, Tarihçesi, Python Programlama Dili ile BM Uygulama Geliştirme Ortamının Hazırlanması, Python Kütüphaneleri, Veri Bilimi, BM Avantaj, Dezavantaj, Uygulama Alanları, BM Uygulama Projesinin Belirlenmesi, Proje İşlem Adımlarının Oluşturulması, Bulanık Küme Kavramı, Kural Tabanı, BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel Değişkenler, IF-THEN kuralları, BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma, BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi, BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Yöntemi, En Büyük Üyelik Dereceli Elemanların Orta Noktası Yöntemi), BM Öğrenci Uygulama Projelerinin Kontrol Haftası, Bulanık Mantık & Python Uygulamaları ( 1, 2, 3 ) ve BM Dersi Öğrenci Uygulama Projelerinin Sunumları.
 
 DERSİN ÖĞRENME ÇIKTILARI
+
+Bulanık Mantık algoritmalarının tanımını yapar.
