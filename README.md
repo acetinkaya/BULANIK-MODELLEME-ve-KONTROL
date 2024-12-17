@@ -32,3 +32,4 @@ Hafta - Bulanık Mantık ve Python Uygulaması - 2
 Hafta - Bulanık Mantık ve Python Uygulaması - 3
 Hafta - Bulanık Mantık ve Python Uygulaması - 4
 Hafta - BM Dersi Öğrenci Uygulama Projelerinin Sunumları
+Hafta - Final Sınavı Haftası
