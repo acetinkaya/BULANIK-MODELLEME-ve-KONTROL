@@ -25,3 +25,4 @@ Hafta - BM Üyelik Fonksiyonları (Üçgen, Yamuk, Gaussian, Sigmoid), Sözel De
 Hafta - BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma
 Hafta - BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi
 Hafta - BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Yöntemi, En Büyük Üyelik Dereceli Elemanların Orta Noktası Yöntemi)
+Hafta - Vize Sınavı Haftası
