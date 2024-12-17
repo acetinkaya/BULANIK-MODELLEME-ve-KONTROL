@@ -36,4 +36,5 @@ HAFTALIK DERS KONULARI
 
 KAYNAKLAR
 Prof. Dr. Novruz Allahverdi, "Uzman Sistemler: Bir Yapay Zeka Uygulaması". Atlas Yayın Dağıtım, 2002.
+Prof. Dr. Nazife Baykal & Dr. Timur Beyan, "Bulanık Mantık Uzman Sistemler ve Denetleyiciler". Bıçaklar Kitapevi, İstanbul, 2004.
 
