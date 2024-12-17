@@ -25,7 +25,7 @@ HAFTALIK DERS KONULARI
 5. Hafta - BM üzerinde; Giriş Çıkış Değişkenlerin Tanımlanması, Üyelik İşlemleri, Bulandırma
 6. Hafta - BM üzerinde; Bulanık Çıkarım (Mamdani, Sugeno, Tsukatomo), Bulanık Kuralların Belirlenmesi
 7. Hafta - BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Yöntemi, En Büyük Üyelik Dereceli Elemanların Orta Noktası Yöntemi)
-Hafta - Vize Sınavı Haftası
+8. Hafta - Vize Sınavı Haftası
 Hafta - BM Öğrenci Uygulama Projelerinin Kontrol Haftası
 Hafta - Bulanık Mantık ve Python Uygulaması - 1
 Hafta - Bulanık Mantık ve Python Uygulaması - 2
