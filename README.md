@@ -18,3 +18,4 @@ Karmaşık veri setlerini analiz ederek Bulanık Mantık modelleri oluşturur.
 Bulanık Mantık sistemlerinin performansını değerlendirir ve iyileştirme önerileri sunar.  
 
 HAFTALIK DERS KONULARI
+Hafta - Bulanık Mantık (BM) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
