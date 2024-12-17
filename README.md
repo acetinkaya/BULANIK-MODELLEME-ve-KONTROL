@@ -28,3 +28,4 @@ Hafta - BM Durulama Yöntemleri (Ağırlık Merkezi Yöntemi, Alan Açı Ortay Y
 Hafta - Vize Sınavı Haftası
 Hafta - BM Öğrenci Uygulama Projelerinin Kontrol Haftası
 Hafta - Bulanık Mantık ve Python Uygulaması - 1
+Hafta - Bulanık Mantık ve Python Uygulaması - 2
