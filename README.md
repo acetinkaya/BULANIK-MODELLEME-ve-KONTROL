@@ -20,3 +20,4 @@ Bulanık Mantık sistemlerinin performansını değerlendirir ve iyileştirme ö
 HAFTALIK DERS KONULARI
 Hafta - Bulanık Mantık (BM) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
 Hafta - Python Programlama Dili ile BM Uygulama Geliştirme Ortamının Hazırlanması, Python Kütüphaneleri, Veri Bilimi ve BM Avantaj, Dezavantaj, Uygulama Alanları
+Hafta - BM Uygulama Projesinin Belirlenmesi, Proje İşlem Adımlarının Oluşturulması, Bulanık Küme Kavramı ve Kural Tabanı
