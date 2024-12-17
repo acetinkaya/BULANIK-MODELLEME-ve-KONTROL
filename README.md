@@ -11,3 +11,5 @@ Amaç:  Bu dersin amacı, öğrencilere geleneksel matematiksel ve mantıksal ya
 DERSİN ÖĞRENME ÇIKTILARI
 
 Bulanık Mantık algoritmalarının tanımını yapar.
+Bulanık Mantık sistemlerinin modellemesini gerçekleştirir.
+
